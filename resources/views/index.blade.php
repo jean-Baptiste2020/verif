@@ -905,6 +905,7 @@
                     <feFuncA type="table" tableValues="1 1" />
                 </feComponentTransfer>
 
+
                 <feComposite in2="SourceGraphic" operator="in" />
             </filter>
         </defs>
