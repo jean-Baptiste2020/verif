@@ -1006,13 +1006,13 @@
         <div class="inside-header grid-container grid-parent">
             <div class="site-branding-container">
                 <div class="site-logo">
-                    <a href="../index.html" rel="home">
+                    <a href="" rel="home">
                         <img class="header-image is-logo-image" alt="Statut Tickets Recharge" src="../wp-content/uploads/2023/06/cropped-cropped-securite-privee-02-e1687468363765.png" />
                     </a>
                 </div>
                 <div class="site-branding">
                     <p class="main-title" itemprop="headline">
-                        <a href="../index.html" rel="home">
+                        <a href="" rel="home">
                             Statut Tickets Recharge
                         </a>
                     </p>
@@ -1029,7 +1029,7 @@
                 <ul id="menu-menu" class=" menu sf-menu">
                     <li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-66"><a href="/">Accueil</a></li>
                     <li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-67">
-                        <a href="index.html" aria-current="page">Statut</a>
+                        <a href="" aria-current="page">Statut</a>
                     </li>
                 </ul>
             </div>
